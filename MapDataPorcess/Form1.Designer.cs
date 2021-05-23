@@ -91,6 +91,7 @@ namespace MapDataPorcess
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(314, 29);
             this.textBox1.TabIndex = 5;
+            this.textBox1.Text = "C:\\Users\\Administrator\\Desktop\\ditu\\未命名\\未命名(WGS84原始瓦片)";
             // 
             // textBox2
             // 
@@ -99,6 +100,7 @@ namespace MapDataPorcess
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(314, 29);
             this.textBox2.TabIndex = 5;
+            this.textBox2.Text = "C:\\Users\\Administrator\\Desktop\\GmapDataProcesser\\Data.gmdb";
             // 
             // label2
             // 
